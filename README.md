@@ -37,3 +37,4 @@ To programmatically receive data the microservice, you will need to use the foll
 
 
 Here is the UML sequence diagram showing how requesting and receiving data works:.
+![UML](https://github.com/robinxbaker/cs361again/assets/114107792/7e78fb56-a447-472b-8652-5c6fa75a7919)
